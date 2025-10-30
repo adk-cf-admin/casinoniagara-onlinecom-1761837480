@@ -1,0 +1,19 @@
+{
+  "name": "Casino Niagara",
+  "short_name": "Casino Niagara",
+  "theme_color": "",
+  "background_color": "#EEEEEE",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1761658539-faviconv2.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
